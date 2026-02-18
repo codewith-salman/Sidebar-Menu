@@ -17,12 +17,6 @@
 
 <br />
 
-<!-- 🔰 PROJECT LOGO -->
-<img src="Sidebar%20Menu/assets/logo.png" alt="Sidebar Menu Logo" width="120"/>
-
-<br />
-<br />
-
 <h1 align="center">🧩 Sidebar Menu</h1>
 
 A modern, responsive, and interactive **Sidebar Navigation Menu UI Component**  
